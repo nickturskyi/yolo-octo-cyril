@@ -6,3 +6,4 @@ AaaaAaaaAaaa
 # To be done - code coverage badge, etc.
 Test1
 Test2
+Test3
